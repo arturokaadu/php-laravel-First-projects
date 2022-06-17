@@ -1,0 +1,1 @@
+[{"dni":"22143555","nombre":"Mark Hoppus","telefono":"1136237307","correo":"Markkkkblink182@gmail.com","imagen":"2021103110104403.jfif"},{"dni":"19256784","nombre":"James","telefono":"1136237307","correo":"JamesMetallica@gmail.com","imagen":"2021103110100528.jfif"},{"dni":"38997037","nombre":"Arturo Kaad\u00fa","telefono":"43550180","correo":"ARTURO@GMAIL.COM","imagen":""}]
