@@ -56,13 +56,5 @@
    ```
    Visit `http://127.0.0.1:8000`
 
-## Deployment (Vercel)
 
-This project is ready for Vercel deployment, but note that **SQLite databases are ephemeral** on serverless platforms like Vercel (changes won't persist after redeploys or cold starts). For a permanent production app, switch to a remote MySQL/PostgreSQL database (like Vercel Postgres, Supabase, or PlanetScale).
-
-### Steps to Deploy
-1. Upload this code to GitHub.
-2. Import the project in Vercel.
-3. Vercel should automatically detect Laravel. If not, ensure `vercel.json` is present.
-4. Add Environment Variables in Vercel (APP_KEY, etc).
 

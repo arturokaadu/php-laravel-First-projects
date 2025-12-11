@@ -56,6 +56,4 @@
    ```
    Visita `http://127.0.0.1:8000`
 
-## Despliegue (Vercel)
 
-Este proyecto está listo para desplegarse en Vercel, pero ten en cuenta que **las bases de datos SQLite son efímeras** en plataformas serverless como Vercel (los cambios no persisten tras nuevos deploys). Para una app de producción permanente, cambia a una base de datos remota MySQL/PostgreSQL (como Vercel Postgres, Supabase o PlanetScale).
