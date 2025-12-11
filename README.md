@@ -1,11 +1,21 @@
 # Gigs & Goals 🏟️🎸
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+
+> **[🇺🇸 Read in English](README.md) | [🇪🇸 Leer en Español](README.es.md)**
+
+🚀 **Live Demo:** [https://gigs-and-goals-dc5k06t2i-kaaduarturo4-8233s-projects.vercel.app](https://gigs-and-goals-dc5k06t2i-kaaduarturo4-8233s-projects.vercel.app)
 
 **Gigs & Goals** is a personal timeline application that connects your musical memories with your passion for football. It answers the question: *"What was my team doing when I was watching this band?"*
+
+## Screenshots
+
+| Home | My Timeline | Create Memory |
+|:---:|:---:|:---:|
+| ![Home](public/screenshots/home.png) | ![Timeline](public/screenshots/timeline.png) | ![Create](public/screenshots/create.png) |
 
 ## Features
 
