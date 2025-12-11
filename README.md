@@ -9,6 +9,9 @@
 
 🚀 **Live Demo:** [https://gigs-and-goals-dc5k06t2i-kaaduarturo4-8233s-projects.vercel.app](https://gigs-and-goals-dc5k06t2i-kaaduarturo4-8233s-projects.vercel.app)
 
+> [!NOTE]
+> **Data Persistence Warning:** This demo uses SQLite on a Serverless environment (Vercel). Any data you create (new tickets) will be **reset** when the server sleeps or redeploys. For a permanent production environment, a remote database (MySQL/PostgreSQL) would be required.
+
 **Gigs & Goals** is a personal timeline application that connects your musical memories with your passion for football. It answers the question: *"What was my team doing when I was watching this band?"*
 
 ## Screenshots
